@@ -1,0 +1,117 @@
+F:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\bin\Debug\ActiveDirectoryTools.exe
+F:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\bin\Debug\ActiveDirectoryTools.pdb
+F:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ResolveAssemblyReference.cache
+F:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Properties.Resources.resources
+F:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.csproj.GenerateResource.Cache
+F:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.exe
+F:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.pdb
+F:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.MainWindow.resources
+F:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.inputAuthDialog.resources
+F:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Forms.RunCleanup.resources
+F:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\bin\Debug\ActiveDirectoryTools.exe.manifest
+F:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\bin\Debug\ActiveDirectoryTools.application
+F:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.TrustInfo.xml
+F:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.exe.manifest
+F:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.application
+F:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.ElevateExplorer.resources
+C:\Users\david\Desktop\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.exe
+C:\Users\david\Desktop\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.pdb
+C:\Users\david\Desktop\ActiveDirectoryTools\ActiveDirectoryTools\bin\Debug\ActiveDirectoryTools.exe.manifest
+C:\Users\david\Desktop\ActiveDirectoryTools\ActiveDirectoryTools\bin\Debug\ActiveDirectoryTools.application
+C:\Users\david\Desktop\ActiveDirectoryTools\ActiveDirectoryTools\bin\Debug\ActiveDirectoryTools.exe
+C:\Users\david\Desktop\ActiveDirectoryTools\ActiveDirectoryTools\bin\Debug\ActiveDirectoryTools.pdb
+C:\Users\david\Desktop\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\david\Desktop\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.ElevateExplorer.resources
+C:\Users\david\Desktop\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.inputAuthDialog.resources
+C:\Users\david\Desktop\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.MainWindow.resources
+C:\Users\david\Desktop\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Forms.RunCleanup.resources
+C:\Users\david\Desktop\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Properties.Resources.resources
+C:\Users\david\Desktop\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.csproj.GenerateResource.Cache
+C:\Users\david\Desktop\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.TrustInfo.xml
+C:\Users\david\Desktop\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.exe.manifest
+C:\Users\david\Desktop\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.application
+P:\Departments\MIS\Remote Management\SOURCE\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.exe
+P:\Departments\MIS\Remote Management\SOURCE\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.pdb
+P:\Departments\MIS\Remote Management\SOURCE\ActiveDirectoryTools\bin\Debug\ActiveDirectoryTools.exe.manifest
+P:\Departments\MIS\Remote Management\SOURCE\ActiveDirectoryTools\bin\Debug\ActiveDirectoryTools.application
+P:\Departments\MIS\Remote Management\SOURCE\ActiveDirectoryTools\bin\Debug\ActiveDirectoryTools.exe
+P:\Departments\MIS\Remote Management\SOURCE\ActiveDirectoryTools\bin\Debug\ActiveDirectoryTools.pdb
+P:\Departments\MIS\Remote Management\SOURCE\ActiveDirectoryTools\obj\Debug\ResolveAssemblyReference.cache
+P:\Departments\MIS\Remote Management\SOURCE\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.ElevateExplorer.resources
+P:\Departments\MIS\Remote Management\SOURCE\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.inputAuthDialog.resources
+P:\Departments\MIS\Remote Management\SOURCE\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.MainWindow.resources
+P:\Departments\MIS\Remote Management\SOURCE\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Forms.RunCleanup.resources
+P:\Departments\MIS\Remote Management\SOURCE\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Properties.Resources.resources
+P:\Departments\MIS\Remote Management\SOURCE\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.csproj.GenerateResource.Cache
+P:\Departments\MIS\Remote Management\SOURCE\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.TrustInfo.xml
+P:\Departments\MIS\Remote Management\SOURCE\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.exe.manifest
+P:\Departments\MIS\Remote Management\SOURCE\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.application
+F:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\Interop.ADODB.dll
+F:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.csproj.ResolveComReference.cache
+F:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\bin\Debug\Interop.ADODB.dll
+F:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Forms.GetTextInput.resources
+F:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.ObjectProperties.resources
+F:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Forms.SelectGroup.resources
+F:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Forms.SetPassword.resources
+F:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Forms.CopyUser.resources
+F:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\bin\Debug\ActiveDirectoryTools.exe.config
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\bin\Debug\ActiveDirectoryTools.exe.config
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\bin\Debug\ActiveDirectoryTools.exe.manifest
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\bin\Debug\ActiveDirectoryTools.application
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\bin\Debug\ActiveDirectoryTools.exe
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\bin\Debug\ActiveDirectoryTools.pdb
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\bin\Debug\Interop.ADODB.dll
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ResolveAssemblyReference.cache
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\Interop.ADODB.dll
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.csproj.ResolveComReference.cache
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.ElevateExplorer.resources
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Forms.CopyUser.resources
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Forms.GetTextInput.resources
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.inputAuthDialog.resources
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.MainWindow.resources
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.ObjectProperties.resources
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Forms.RunCleanup.resources
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Forms.SelectGroup.resources
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Forms.SetPassword.resources
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Properties.Resources.resources
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.csproj.GenerateResource.Cache
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.TrustInfo.xml
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.exe.manifest
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.application
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.exe
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.pdb
+C:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Forms.FindRep.resources
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\bin\Debug\ActiveDirectoryTools.exe.config
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.csproj.ResolveComReference.cache
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.exe
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.pdb
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\bin\Debug\ActiveDirectoryTools.exe.manifest
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\bin\Debug\ActiveDirectoryTools.application
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\bin\Debug\ActiveDirectoryTools.exe
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\bin\Debug\ActiveDirectoryTools.pdb
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\bin\Debug\ServiceProvider.dll
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.ElevateExplorer.resources
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.AdvancedSearch.resources
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Forms.CopyUser.resources
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Forms.FindRep.resources
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Forms.GetTextInput.resources
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.GroupProperties.resources
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.inputAuthDialog.resources
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.MainWindow.resources
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.ObjectProperties.resources
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Forms.RunCleanup.resources
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Forms.SelectExchDatabase.resources
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Forms.SelectGroup.resources
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.SelectUserForGroup.resources
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Forms.SetPassword.resources
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Forms.TermUser.resources
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.Properties.Resources.resources
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.csproj.GenerateResource.Cache
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.TrustInfo.xml
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.exe.manifest
+E:\Visual Studio Projects\ActiveDirectoryTools\ActiveDirectoryTools\obj\Debug\ActiveDirectoryTools.application

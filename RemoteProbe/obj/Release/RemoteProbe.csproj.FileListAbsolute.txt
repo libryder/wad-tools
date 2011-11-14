@@ -1,0 +1,8 @@
+C:\Visual Studio Projects\ActiveDirectoryTools\RemoteProbe\obj\Release\ResolveAssemblyReference.cache
+C:\Visual Studio Projects\ActiveDirectoryTools\RemoteProbe\obj\Release\RemoteProbe.ProbeForm.resources
+C:\Visual Studio Projects\ActiveDirectoryTools\RemoteProbe\obj\Release\RemoteProbe.Properties.Resources.resources
+C:\Visual Studio Projects\ActiveDirectoryTools\RemoteProbe\obj\Release\RemoteProbe.csproj.GenerateResource.Cache
+C:\Visual Studio Projects\ActiveDirectoryTools\RemoteProbe\bin\Release\RemoteProbe.exe
+C:\Visual Studio Projects\ActiveDirectoryTools\RemoteProbe\bin\Release\RemoteProbe.pdb
+C:\Visual Studio Projects\ActiveDirectoryTools\RemoteProbe\obj\Release\RemoteProbe.exe
+C:\Visual Studio Projects\ActiveDirectoryTools\RemoteProbe\obj\Release\RemoteProbe.pdb

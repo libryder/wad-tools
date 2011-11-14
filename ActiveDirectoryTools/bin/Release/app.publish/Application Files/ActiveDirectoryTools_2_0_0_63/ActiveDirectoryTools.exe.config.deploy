@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="ActiveDirectoryTools.Default" type="System.Configuration.ClientSettingsSection, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <connectionStrings>
+        <add name="ActiveDirectoryTools.Properties.Settings.CompDATAConnectionString"
+            connectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=&quot;\\ironhide\public\Departments\MIS\Remote Management\Dependencies\CompDATA.accdb&quot;"
+            providerName="System.Data.OleDb" />
+    </connectionStrings>
+    <userSettings>
+        <ActiveDirectoryTools.Default>
+            <setting name="domain" serializeAs="String">
+                <value>APEX.Local</value>
+            </setting>
+            <setting name="primaryOu" serializeAs="String">
+                <value>Apex</value>
+            </setting>
+        </ActiveDirectoryTools.Default>
+    </userSettings>
+</configuration>

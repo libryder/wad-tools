@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ActiveDirectoryTools" GeneratedClassName="Default">
+  <Profiles />
+  <Settings>
+    <Setting Name="domain" Type="System.String" Scope="User">
+      <Value Profile="(Default)">APEX.Local</Value>
+    </Setting>
+    <Setting Name="primaryOu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Apex</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
